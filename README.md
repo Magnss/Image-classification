@@ -10,7 +10,7 @@ In this project, you are tasked to develop a simple Traffic Sign Recognition (TS
 
 ## Traffic Signs
 
-This model is used "U-turn sign" and the "Stop" sign. 
+This model is used for the classification of "U-turn sign" and the "Stop" sign. 
 
 **1. U-Turn Sign**
 
