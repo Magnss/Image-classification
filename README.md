@@ -8,9 +8,9 @@ In Singapore, there is a range or traffic road signs serving various purposes. T
 
 In this project, you are tasked to develop a simple Traffic Sign Recognition (TSR) as a proof-of-concept to classify Singapore's road signs. This Traffic Sign Recognition system must use Convolutional Neural Networks (CNN) for the recognition of the signs. 
 
-## Business Requirements: Traffic Signs
+## Traffic Signs
 
-The two required traffic signs that you model must detect are the "U-turn sign" and the "Stop" sign. 
+This model is used "U-turn sign" and the "Stop" sign. 
 
 **1. U-Turn Sign**
 
